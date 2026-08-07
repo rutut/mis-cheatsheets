@@ -1,2 +1,0 @@
-# Git 
-Cheatsheet de Git
