@@ -1,6 +1,7 @@
 [
-  {"title": "Git", "file": "git.md"},
-  {"title": "Python", "file": "python.md"},
-  {"title": "Inglés", "file": "ingles.md"},
-  {"title": "Japonés", "file": "japones.md"}
+  {"title": "Git", "file": "git.md", "icon": "git.png"},
+  {"title": "Python", "file": "python.md", "icon": "python.png"},
+  {"title": "Inglés", "file": "ingles.md", "icon": "ingles.png"},
+  {"title": "Japonés", "file": "japones.md", "icon": "japones.png"},
+  {"title": "Pipenv", "file": "pipenv.md", "icon": "pipenv.png"}
 ]
