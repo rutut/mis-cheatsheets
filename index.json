@@ -3,5 +3,6 @@
   {"title": "Python", "file": "python.md", "icon": "python.png"},
   {"title": "Inglés", "file": "ingles.md", "icon": "ingles.png"},
   {"title": "Japonés", "file": "japones.md", "icon": "japones.png"},
-  {"title": "Pipenv", "file": "pipenv.md", "icon": "pipenv.png"}
+  {"title": "Pipenv", "file": "pipenv.md", "icon": "pipenv.png"},
+  {"title": "Nmap", "file": "nmap.md", "icon": "nmap.png"}
 ]
