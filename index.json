@@ -4,5 +4,6 @@
   {"title": "Inglés", "file": "ingles.md", "icon": "ingles.png"},
   {"title": "Japonés", "file": "japones.md", "icon": "japones.png"},
   {"title": "Pipenv", "file": "pipenv.md", "icon": "pipenv.png"},
-  {"title": "Nmap", "file": "nmap.md", "icon": "nmap.png"}
+  {"title": "Nmap", "file": "nmap.md", "icon": "nmap.png"},
+  {"title": "Hangul", "file": "hangul.md", "icon": "hangul.png"}
 ]
