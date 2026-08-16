@@ -5,5 +5,6 @@
   {"title": "Japonés", "file": "japones.md", "icon": "japones.png"},
   {"title": "Pipenv", "file": "pipenv.md", "icon": "pipenv.png"},
   {"title": "Nmap", "file": "nmap.md", "icon": "nmap.png"},
-  {"title": "Hangul", "file": "hangul.md", "icon": "hangul.png"}
+  {"title": "Hangul", "file": "hangul.md", "icon": "hangul.png"},
+  {"title": "English Verb", "file": "english-verb.md", "icon": "english-verb.png"}
 ]
